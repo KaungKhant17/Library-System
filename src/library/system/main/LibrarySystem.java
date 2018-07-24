@@ -29,7 +29,6 @@ public class LibrarySystem extends Application {
             
             System.out.println("Cannot Connect:");
             MessageBox.showAndWaitErrorMessage("Connection Error", "Cannot Connect");
-            e.printStackTrace();
         }
         
         Parent root = FXMLLoader.load(getClass().getResource("main.fxml"));
