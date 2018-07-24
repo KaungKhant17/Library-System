@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+
+    
+    Created on : Jul 20, 2018, 5:58:56 PM
+    Author     : Aspire
+*/
+.button{
+    -fx-background-color: #123456;
+    -fx-text-fill: #eceff1;
+}
+.glyph-icon{
+    -fx-fill: #eceff1;
+}
+
+.side-pannel{
+    -fx-background-color: #123456;
+}
